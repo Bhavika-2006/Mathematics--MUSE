@@ -1,6 +1,7 @@
 # Mathematics--MUSE
 **The Cauchy-Schwarz Inequality**
 LETS GET STARTED
+<BR>
 $\sqrt{3x-1}+(1+x)^2$
 <BR>
 ```math
